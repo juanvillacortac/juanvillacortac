@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Hi there, I'm Juan <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=eggsy&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
