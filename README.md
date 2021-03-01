@@ -8,4 +8,4 @@ The passion to develop started as a hobby at a young age and now I am always try
 
 Currently I'm learning React ⚛️
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvillacortac&theme=dark&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvillacortac&theme=dark&hide_border=true&layout=compact">
