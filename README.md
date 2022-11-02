@@ -6,6 +6,4 @@ Hi 👋 I am a young developer. I am a self-taught developer with a passion for 
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times.
 
-Currently I'm learning React ⚛️
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvillacortac&theme=dark&hide_border=true&layout=compact">
