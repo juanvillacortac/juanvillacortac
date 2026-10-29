@@ -1,6 +1,18 @@
 ### Hi, I'm Juan 👋
 
-Backend architect and tech lead from Venezuela, self-taught and fond of reinventing the wheel. I design distributed systems in Go: cloud native infrastructure on Kubernetes and OpenShift, event-driven architectures with NATS and RabbitMQ, CI/CD and developer tooling.
+Backend architect and tech lead from Venezuela, building software professionally since 2018. Self-taught and fond of reinventing the wheel.
+
+I own the architecture of multi-product platforms end to end: from the service contracts and the event model down to the clusters they run on, plus the shared libraries, scaffolding and pipelines that let a team ship dozens of services consistently.
+
+**What I do**
+
+- **Distributed systems in Go:** microservices with ConnectRPC and Protobuf (buf), shared core libraries, multi-tenant designs.
+- **Event-driven architecture:** NATS and Kafka for messaging, streaming and async workflows.
+- **Data:** ScyllaDB, PostgreSQL, Redis and MinIO, picked per workload.
+- **Platform and infrastructure:** Kubernetes (k3s, OpenShift), Helm, GitOps, Traefik, cert-manager and CI/CD.
+- **Observability:** OpenTelemetry, Prometheus, Grafana, Loki and Tempo.
+- **AI systems:** agent backends in Python with LangGraph and LangChain, and computer vision pipelines with DeepStream and Triton.
+- **Developer experience:** service scaffolders, internal CLIs and deployment tooling.
 
 In my spare time I go further down the stack: audio engines, game engines, toy languages and porting old games to Linux handhelds.
 
@@ -35,7 +47,7 @@ In my spare time I go further down the stack: audio engines, game engines, toy l
 
 ### Tools I reach for
 
-**Work:** Go · Kubernetes · OpenShift · Docker · NATS · RabbitMQ · MongoDB · SQL Server · CI/CD
+**Work:** Go · ConnectRPC · Protobuf · NATS · Kafka · RabbitMQ · ScyllaDB · PostgreSQL · Redis · MongoDB · Kubernetes · OpenShift · Helm · Docker · Prometheus · Grafana · Python · LangGraph
 
 **Side projects:** Go · Ebitengine · C · Rust · Lua · Neovim · Linux
 
