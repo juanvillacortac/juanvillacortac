@@ -53,4 +53,4 @@ In my spare time I go further down the stack: audio engines, game engines, toy l
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/juanvillacortac/) · [Website](https://juanvillacortac.vercel.app) · [X / Twitter](https://x.com/juanvillacortac) · [Ko-fi](https://ko-fi.com/juanvillacortac)
+[LinkedIn](https://www.linkedin.com/in/juanvillacortac/) · [Ko-fi](https://ko-fi.com/juanvillacortac)
